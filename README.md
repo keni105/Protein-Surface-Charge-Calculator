@@ -89,7 +89,7 @@ This Python script (`Protein_surface_charge.py`) ranks protein models by their a
 
    - A `converted_pdb/` directory containing intermediate `.pdb` files from any `.cif` inputs.
    - `.pqr` and temporary APBS input/output files in the working directory.
-   - Printed ranking by absolute net surface charge, with method tag (`APBS` or `residue-count`).
+   - Printed ranking by absolute net surface charge, with method tag (`APBS` or `residue-count`) and writes a tab‐separated 'surface_charge_ranking.txt' alongside console output.
 
 ---
 
