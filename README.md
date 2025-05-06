@@ -121,4 +121,4 @@ Models are sorted by descending |net charge|.
 
 ## License
 
-MIT © Your Name
+MIT © Keni Vidilaseris
